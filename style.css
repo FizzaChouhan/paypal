@@ -1,0 +1,15 @@
+.logo{
+    height: 50px;
+}
+.text{
+   color:  #003095 ;
+}
+.but{
+    border-color: #003095  ;
+}
+.buts{
+    background-color: #003095 ;
+}
+.list{
+    list-style: none;
+}
